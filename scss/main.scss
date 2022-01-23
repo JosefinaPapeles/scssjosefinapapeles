@@ -1,0 +1,15 @@
+@import './variables/colores';
+@import './variables/fuentes';
+
+
+@import './utilidades/header';
+@import './utilidades/body';
+@import './utilidades/footer';
+
+@import './secciones/index.scss';
+@import './secciones/contacto.scss';
+
+@import './secciones/portfolio.scss';
+@import './secciones/imprimibles.scss';
+
+@import './utilidades/mediaqueries';

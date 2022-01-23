@@ -1,0 +1,15 @@
+.footer {
+    background-color: $rosa-primero;
+
+    .icon {
+        color: $color-secundario;
+    }
+
+    a {
+        color: $color-secundario;
+    }
+
+    a:hover {
+        color: white;
+    }
+}

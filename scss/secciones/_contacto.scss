@@ -1,0 +1,29 @@
+.tituloGrandeContacto {
+    color: $color-secundario
+}
+
+.parrafoContacto {
+    color: black;
+}
+
+.sectionContacto {
+    min-height: 100vh;
+    padding: 2%;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.form {
+    padding-bottom: 5%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+}
+
+.botonContacto {
+    margin-top: 6%;
+}
