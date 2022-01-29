@@ -1,0 +1,14 @@
+// prueba de mapeo
+$textoResaltado: (
+    textoResaltadoUno: black,
+    textoResaltadoDos: white,
+    textoResaltadoTres: red,
+    textoResaltadoCuatro: blue,
+
+);
+@each $frase, $color in $textoResaltado{
+    .#{$frase}{
+        color: $color;
+        font-weight: bold;
+    }
+}

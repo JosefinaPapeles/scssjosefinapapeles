@@ -1,4 +1,28 @@
 @import url("https://fonts.googleapis.com/css2?family=Balsamiq+Sans&display=swap");
+.sectionUno, .sectionContacto {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 2%; }
+
+.textoResaltadoUno {
+  color: black;
+  font-weight: bold; }
+
+.textoResaltadoDos {
+  color: white;
+  font-weight: bold; }
+
+.textoResaltadoTres {
+  color: red;
+  font-weight: bold; }
+
+.textoResaltadoCuatro {
+  color: blue;
+  font-weight: bold; }
+
 header {
   background-color: #F9CBC0; }
   header .logoHeader {
@@ -48,6 +72,16 @@ body {
   background-color: #B2CEC3;
   box-sizing: border-box; }
 
+.tituloGrande {
+  color: white;
+  font-size: 36px;
+  text-transform: uppercase; }
+
+.tituloGrandeContacto {
+  color: #EB998F;
+  font-size: 30px;
+  text-transform: uppercase; }
+
 .footer {
   background-color: #F9CBC0; }
   .footer .icon {
@@ -57,32 +91,10 @@ body {
   .footer a:hover {
     color: white; }
 
-.sectionUno {
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  justify-content: center; }
-
-.tituloGrande {
-  color: white;
-  font-size: 250%; }
-
-.tituloGrandeContacto {
-  color: #EB998F; }
-
 .parrafoContacto {
   color: black; }
 
-.sectionContacto {
-  min-height: 100vh;
-  padding: 2%;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center; }
-
 .form {
-  padding-bottom: 5%;
   display: flex;
   flex-direction: column;
   justify-content: center; }
@@ -112,29 +124,27 @@ body {
     display: grid;
     grid-template-columns: auto auto; }
   .tituloGrande {
-    font-size: 160%; }
+    font-size: 140%; }
+  .tituloGrandeContacto {
+    color: #EB998F;
+    font-size: 22px;
+    text-transform: uppercase; }
   .sectionUno {
     margin-top: -8%;
     margin-bottom: 8%;
     font-size: small; }
   .imgSection {
     margin-top: -8%; }
-  .btn-light {
+  .btn-light,
+  .parrafoContacto, .footer {
     font-size: small; }
-  .parrafoContacto {
-    font-size: small; }
-  .footer {
-    font-size: small; } }
-
-.navbar-light .navbar-toggler {
-  border-color: #F9CBC0;
-  background-color: #F9CBC0; }
-
-.navbar-toggler {
-  padding: 0.25rem 0.75rem;
-  font-size: 1.25rem;
-  border: none;
-  border-radius: 0.25rem; }
-
-.navbar-light .navbar-toggler {
-  color: #F9CBC0; }
+  .navbar-light .navbar-toggler {
+    border-color: #F9CBC0;
+    background-color: #F9CBC0; }
+  .navbar-toggler {
+    padding: 0.25rem 0.75rem;
+    font-size: 1.25rem;
+    border: none;
+    border-radius: 0.25rem; }
+  .navbar-light .navbar-toggler {
+    color: #F9CBC0; } }

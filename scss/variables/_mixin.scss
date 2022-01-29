@@ -1,0 +1,11 @@
+@mixin estiloTitulos ($color, $tamanio){
+    color: $color;
+    font-size: $tamanio;
+    text-transform: uppercase;
+
+}
+
+@mixin tamaniosFuente{
+    font-size: small;
+
+}

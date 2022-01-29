@@ -3,13 +3,17 @@
 
     .icon {
         color: $color-secundario;
+        
     }
 
     a {
         color: $color-secundario;
+     
     }
 
     a:hover {
-        color: white;
+        color: $color-terciario;
     }
+    
+
 }

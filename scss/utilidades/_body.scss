@@ -3,3 +3,16 @@ body{
     background-color: $color-fondo;
     box-sizing: border-box;
 }
+
+.sectionUno, .sectionContacto{
+    @extend %estilosSection
+}
+
+
+.tituloGrande{
+    @include estiloTitulos ($color-terciario, 36px);
+}
+.tituloGrandeContacto {
+    @include estiloTitulos ($color-secundario, 30px);
+    
+}
