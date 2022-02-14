@@ -1,0 +1,600 @@
+03:16:30	[ Tutor] Bruno Cocco:	MSN lovers
+03:16:32	[tutor]Maximiliano Cardenas:	da la primera clase de react joha
+03:16:55	Matheo Caneva:	mal, tengo un formulario al dope ahi
+03:16:58	Matheo Caneva:	tiene menos movilidad que mi abuela
+03:17:00	Sabrina Monzón:	si si
+03:17:04	Josefina Duarte:	mas tiempooooooo
+03:17:06	David Abran:	siii muy importante js
+03:17:10	Tamara Veisaga:	ya me asuste (?
+03:17:16	Hernán Bustamante Hesse:	Si ya me anote a toda la carrera
+03:17:20	Ana Jara:	Cuando lo des vos me anoto
+03:17:20	[tutor]Maximiliano Cardenas:	después les paso videos de js
+03:17:23	[TUTOR] Tomas Babikian:	Muy recomendable JS! Difícil pero es el camino!
+03:17:35	Joaquin Reynoso:	cuando estejo ? cuando termino desarrollo o cuando termino java y react también ? jjaja
+03:17:40	[ Tutor] Bruno Cocco:	lean el libro ELOQUENT
+03:17:48	[ Tutor] Bruno Cocco:	es la biblia de JS
+03:17:48	[tutor]Maximiliano Cardenas:	no se festeja joaquin
+03:18:00	Joaquin Reynoso:	oka maxi jaja se codea nomas
+03:18:03	Matheo Caneva:	tiranos un hosting free joha ajjaja
+03:18:15	[tutor]Maximiliano Cardenas:	satamente
+03:18:27	Matheo Caneva:	nunca se deja de aprender jajaja
+03:18:34	Joaquin Reynoso:	ya lo creo jajaja
+03:18:35	Matheo Caneva:	es como la medicina
+03:19:04	Miguel Arboleda:	Buenas noches!!
+03:19:14	Miguel Arboleda:	Alguien dijo javascript? ajajaj
+03:19:20	lis medina:	ayer hubo after ?
+03:19:35	[Tutor] Lucas Gilardi:	no, no hubo Lis!
+03:19:58	lis medina:	gracias lu !
+03:20:48	Joan:	es la tercera
+03:20:49	Joaquin Reynoso:	cuarta ? en la pagina de coder dice tercera
+03:20:49	Miguel Arboleda:	Es la tercera entrega
+03:20:54	Joaquin Reynoso:	no se cual esta mal jaja
+03:20:56	Manuel Fernandez:	pero le vamos a poder seguir consultando verdad?
+03:21:17	Joaquin Reynoso:	me assute JAJAJA
+03:21:26	[Tutor] Lucas Gilardi:	sí obvio Manu, pueden seguir consultando lo que necesiten!
+03:21:55	Miguel Arboleda:	Nos echan de canal de slack?
+03:22:01	[tutor]Maximiliano Cardenas:	recuerden que debido a las nuevas normas de coder
+03:22:01	[ Tutor] Bruno Cocco:	y se marchoooo
+03:22:10	Julieta Pacheco:	noo
+03:22:13	[tutor]Maximiliano Cardenas:	no podemos habilitar mas de 3 entregas
+03:22:22	[tutor]Maximiliano Cardenas:	si es que les quedaron colgadas
+03:23:02	[tutor]Maximiliano Cardenas:	esto fue bajado hace poquito por coder chicos
+03:23:07	[tutor]Maximiliano Cardenas:	:/
+03:23:15	Matheo Caneva:	*se colgaba toda la cursada*
+03:23:15	Miguel Arboleda:	A mi no me han devuelto todavía dos entregas
+03:23:18	Tamara Veisaga:	a mi me falto uno solo, el de subir a git
+03:23:20	[ Tutor] Bruno Cocco:	Si, ubo cambios de procesos
+03:23:26	Tamara Veisaga:	pero después los otros los subi a git
+03:23:33	Tamara Veisaga:	tengo que subir ese también?
+03:23:35	Tomas Narducci:	A mi me faltaron dos pero no eran desafíos obligatorios
+03:23:48	Matheo Caneva:	te sirven para los puntos esos no obligatorios
+03:23:52	[tutor]Maximiliano Cardenas:	joya los optativos no pasa nada
+03:23:56	[TUTOR] Tomas Babikian:	A meterle los últimos dias!
+03:24:18	[tutor]Maximiliano Cardenas:	vamos a ir revisando igualmente si quedaron algunos colgados
+03:24:20	Tomas Narducci:	ok gracias !
+03:24:31	Matheo Caneva:	pasado a la realidad no tengo ninguno de los dos a mi nombre jajajjaja
+03:24:35	Miguel Arboleda:	A mi no me han calificado un par, nada mas
+03:24:45	Miguel Arboleda:	Es lo único que me preocupa, honestamente
+03:24:56	[tutor]Maximiliano Cardenas:	tranquis que se revisa todo chicos.
+03:24:59	[tutor]Maximiliano Cardenas:	no preocupais
+03:25:02	Tomas Narducci:	okok
+03:25:54	Matheo Caneva:	si joha
+03:25:58	Joaquin Reynoso:	yes
+03:26:31	Joaquin Reynoso:	Necesito meses solo para ver paginas que nos ha tirado joha el otro dia, que genia gracias jaja
+03:26:50	[ Tutor] Bruno Cocco:	todo a marcadores jajaja
+03:26:57	Matheo Caneva:	justamente el dominio es la dns o no?
+03:27:06	Tomas Novelli:	no sabia que existía el .musica
+03:27:20	Miguel Arboleda:	cisne.musica
+03:27:24	Miguel Arboleda:	jajaja
+03:27:35	Miguel Arboleda:	Solo había tonos de gallinas y de aves
+03:27:48	Miguel Arboleda:	Estaba interesante, pero eso no era muy comercial que digamos
+03:27:51	[ Tutor] Bruno Cocco:	dns es domine name sistem
+03:28:32	Augusto Balansó:	@Matheo dns no es lo mismo que dominio, dns es un server que resuelve la ip de un dominio, e.g. sabe que www.google.com apunta a 172.217.29.196
+03:28:34	Joaquin Gutierrez:	que raro como todo en este pais
+03:28:34	Joaquin Gutierrez:	jajaj
+03:28:43	Miguel Arboleda:	En Colombia es lo mismo
+03:28:47	Miguel Arboleda:	Una chapuza tremenda
+03:29:02	[ Tutor] Bruno Cocco:	claro, tiene q ver más con un tema de protocolos
+03:29:55	Joaquin Gutierrez:	eso igual es para los derechos del dominio verdad? 
+03:30:00	Joaquin Reynoso:	argentino viviendo en mexico, por ende argentina jaja
+03:30:09	[PROFE] Johanna Palo Bael:	https://nic.ar/
+03:30:27	Matheo Caneva:	los mejores son .onion .-.
+03:30:32	[ Tutor] Bruno Cocco:	ahora estamos hablando de el nombre que le asignamos
+03:30:40	Miguel Arboleda:	Que risa daba cuando la gente compraba el google cuando se les vencía el tiempo pago con ese dominio jajaja
+03:30:49	[ Tutor] Bruno Cocco:	la referencia digamos
+03:31:00	Tomas Narducci:	De todas las maneras hay q pagar?
+03:31:38	Miguel Arboleda:	En general, si lo queres personalizado, tengo entendido que si
+03:31:48	Joaquin Reynoso:	Aca en mexico son como 2 dolares
+03:32:11	Miguel Arboleda:	Luego, existe diferente el tema de la financiacion
+03:32:11	[Tutor]María Paula Clemente:	hay hosting gratuitos pero tiene pocos beneficios
+03:32:25	Matheo Caneva:	mucho no te ofrecen tanta seguridad
+03:32:34	Matheo Caneva:	es como, lo queres gratis? bueno sos no seguro
+03:32:41	[Tutor]María Paula Clemente:	y el dominio si comprar
+03:32:58	Miguel Arboleda:	El otro problema tambien es que tiene poca personalizacion
+03:33:37	[ Tutor] Bruno Cocco:	no se si no seguro prq no van a exponer sus servers pero te Dan lo más básico para q colgar el sitio sin posibilidad de expandir los recursos
+03:33:59	Matheo Caneva:	y cuando le armas la pagina a alguien como se maneja lo del hosting?
+03:34:03	Matheo Caneva:	oara que esa persona lo pague y demas
+03:34:08	[ Tutor] Bruno Cocco:	ahora vamos a llegqr
+03:34:18	Federico Krenn:	te dan un "anticipo" de lo más básico, lo que buscan es que accedas a un plan, sería como una prueba gratuita
+03:34:18	Matheo Caneva:	no te me enojes bruno
+03:34:19	Matheo Caneva:	ja
+03:34:34	[ Tutor] Bruno Cocco:	jajajaja jamas
+03:34:36	[ Tutor] Bruno Cocco:	❣
+03:34:38	Joaquin Gutierrez:	Pero por que tengo que comprar el dominio? por que alguien ya los registro? sabia lo del hosting pero no que el dominio tambien se compraba
+03:34:42	Matheo Caneva:	<3
+03:35:05	[ Tutor] Bruno Cocco:	esa ip en la Red la tenes q pagar
+03:35:18	[ Tutor] Bruno Cocco:	y es el combo, alojamiento y direccio
+03:35:20	[ Tutor] Bruno Cocco:	n
+03:35:27	Mariana Cian:	solicitudes
+03:35:33	Joaquin Reynoso:	osea hay que comprar el dominio y el host ? ambos no ?
+03:35:41	Tomas Narducci:	requisitos
+03:35:41	[ Tutor] Bruno Cocco:	claro
+03:35:45	[PROFE] Johanna Palo Bael:	PETICIONES
+03:35:49	Josefina Duarte:	JAJA
+03:36:24	Tomas Novelli:	messiii
+03:36:24	Matheo Caneva:	MESIRVE
+03:36:25	[Tutor] Luis Dufour:	Tal cual Joaqo!
+03:36:26	Joaquin Gutierrez:	que grande Lio tiene servicio de hosting
+03:36:27	Tomas Novelli:	jajajajaja
+03:36:34	Matheo Caneva:	hostinger
+03:36:37	Joaquin Reynoso:	jajajaja
+03:36:46	David Abran:	hay paginas que den todo junto? osea dominio y hosting incluido?
+03:36:47	[ Tutor] Bruno Cocco:	vercel <- el one
+03:36:49	[ Tutor] Bruno Cocco:	jajaja
+03:37:07	Miguel Arboleda:	Quiero comprar salchipapa.com
+03:37:18	[ Tutor] Bruno Cocco:	jajajaja
+03:37:22	Miguel Arboleda:	Ósea que existe un paquete con dominio, host y red?
+03:37:37	Miguel Arboleda:	Porque comprar cada cosa por separado esta feo
+03:37:55	[ Tutor] Bruno Cocco:	depende hay clientes q ya tienen el domini9
+03:38:00	[ Tutor] Bruno Cocco:	pero no el host
+03:38:05	[ Tutor] Bruno Cocco:	te vas a encontrar con todo
+03:38:15	[tutor]Maximiliano Cardenas:	tengan calma paciencia
+03:38:20	[tutor]Maximiliano Cardenas:	y no rompan nada
+03:38:25	[tutor]Maximiliano Cardenas:	lo free es asi
+03:38:31	Joaquin Reynoso:	Voy a hacer una pregunta rara, por ejemplo yo vivo en mexico siendo argentino, si mañana empiezo a trabajar para una empresa argentina o para una persona y le hago el sitio web siempre me va a convenir comprar el host en argentina, ya que en dólares me es mas barato, como es la regulación de eso por los paises ? o es solo depende donde lo queres establecer, perdón lo largo jaja
+03:38:34	Joaquin Gutierrez:	el chanchito parace que hay q romper jajaj
+03:38:52	Miguel Arboleda:	#malisimo, nisiquiera medio pelo ni malo
+03:38:54	Kevin Aguiar:	el vps es un apart hotel
+03:39:28	[tutor]Maximiliano Cardenas:	el host siempre tiene que ser del lugar de procedencia
+03:39:32	[tutor]Maximiliano Cardenas:	si lo hacen para chile
+03:39:41	[tutor]Maximiliano Cardenas:	buscar algún host chileno
+03:39:57	[tutor]Maximiliano Cardenas:	mas que nada por las velocidades de carga
+03:39:58	Matheo Caneva:	.chichichi.lelele.vivachile
+03:39:59	Joaquin Reynoso:	el lugar de procedencia de donde va a ser el sitio web no ?
+03:40:06	[tutor]Maximiliano Cardenas:	claro
+03:40:13	Miguel Arboleda:	Ahh okok
+03:40:17	[tutor]Maximiliano Cardenas:	no se si te conteste joaco
+03:40:29	Joaquin Reynoso:	sisi clarísimo maxi, gracias
+03:40:47	Joaquin Reynoso:	Como se llama el servidor dedicado ahí en godaddy joha =?
+03:41:00	Miguel Arboleda:	Con el dedicado, entonces tenes que instalar fisicamente el server no?
+03:41:06	Andrés País:	se tomaron muy en serio la metáfora, los amo
+03:41:09	Miguel Arboleda:	Es decir, comprar toda la infraestructura?
+03:41:15	Miguel Arboleda:	O eso se puede alquilar?
+03:41:15	Tomas Narducci:	Hoy vamos a hacer algo en visual?
+03:41:20	Augusto Balansó:	me perdí, que sims instalo entonces? (?)
+03:41:25	Joaquin Gutierrez:	se compra tambien Miguel, no es un servicio o podes comprar las maquinas si queres si sos amazon ponele
+03:41:26	Tomas Novelli:	JAJAJ
+03:41:41	Joaquin Gutierrez:	quise decir es un servicio tambien
+03:41:43	Miguel Arboleda:	Yo lo pregunto porque
+03:41:54	Miguel Arboleda:	Con razón algunas paginas dedicadas son tan malas
+03:42:12	Joaquin Reynoso:	Entonces que es lo mas recomendado ?
+03:42:13	Miguel Arboleda:	Si tienen un server dedicado, no le han invertido como la gente
+03:42:31	[ Tutor] Bruno Cocco:	depende sería la respuesta
+03:42:33	[ Tutor] Bruno Cocco:	jajajaja
+03:42:48	[Tutor] Luis Dufour:	también depende de cuanto quiere gastar el cliente jajaj
+03:42:51	Joaquin Reynoso:	claro imagine, pero digo como sale el servidor dedicado en la pagina por ejemplo ? es el SSL ?
+03:42:57	Matheo Caneva:	total el hosting lo paga el cliente
+03:43:04	[ Tutor] Bruno Cocco:	El tema es, que tráfico vas a manejar
+03:43:05	Joaquin Reynoso:	Claro
+03:43:06	Joaquin Reynoso:	clarisimo
+03:43:12	Joaquin Reynoso:	que lo pague el cliente jaja
+03:43:21	Matheo Caneva:	y claro
+03:43:22	Miguel Arboleda:	En la practica, si
+03:43:29	[ Tutor] Bruno Cocco:	ssl  es un tipo de xifrado
+03:43:35	Joaquin Reynoso:	ah
+03:43:37	Miguel Arboleda:	Entra a los gastos mensuales de la manutención de la pagina
+03:43:46	[ Tutor] Bruno Cocco:	Un canal segueo entre serv y clien
+03:43:52	[ Tutor] Bruno Cocco:	a grandes rasgos claramenrw
+03:43:55	[PROFE] Johanna Palo Bael:	https://ar.000webhost.com/
+03:44:16	Santiago Tassara:	Tambien podría usar mi pc de servidor y usar la ip publica?
+03:44:18	Juan Ignacio Cruz oviedo:	una de yopmail no sirve?
+03:44:20	[tutor]Maximiliano Cardenas:	se puede colapsar la pagina
+03:44:24	Juan Ignacio Cruz oviedo:	para el ejemplo
+03:44:29	[tutor]Maximiliano Cardenas:	siempre pasa por si las dudas
+03:44:30	[ Tutor] Bruno Cocco:	claro si
+03:44:33	[tutor]Maximiliano Cardenas:	con soda chicos
+03:44:36	[ Tutor] Bruno Cocco:	virus alert pero si
+03:44:45	David Abran:	un mail temporal mas rapido XD
+03:44:48	Joaquin Reynoso:	creamos un Gmail o usamos uno si ya tenemos ?
+03:44:56	Joaquin Reynoso:	o es peligroso jaja
+03:44:58	Santiago Tassara:	Claro yo digo para las entregas ya que no tendria trafico
+03:44:59	Santiago Tassara:	por ejemplo
+03:45:06	[Tutor] Luis Dufour:	si ya tenemos usamos la cuenta de Gmail joaqo
+03:45:17	Joaquin Reynoso:	oka Luis gracias
+03:45:21	[ Tutor] Bruno Cocco:	para entregar usa uno de los gratis q te Dan las empresas
+03:45:42	Kevin Aguiar:	El apellido tiene que se letras
+03:46:09	Kevin Aguiar:	Te va a pedir verificar con el número :(
+03:46:13	Joaquin Gutierrez:	es opcional
+03:46:20	Joaquin Gutierrez:	lo del cel
+03:46:28	Kevin Aguiar:	Ok!
+03:46:42	Joaquin Reynoso:	puedo iniciar con Facebook ' jaja
+03:46:43	Joaquin Reynoso:	?
+03:46:48	Miguel Arboleda:	jajaja
+03:46:52	Miguel Arboleda:	Te imaginas?
+03:47:30	Tomas Novelli:	100 cuentas de correo?
+03:47:52	Tamara Veisaga:	un monoambiente
+03:47:55	Matheo Caneva:	con lo de ancho de banda y espacio a que va?
+03:48:04	Miguel Arboleda:	Un monoambiente en pompeya
+03:48:09	Rodrigo Torres:	ese valor es mensual verdad?
+03:48:13	Miguel Arboleda:	O en barracas
+03:48:40	Augusto Balansó:	el que más rojo tenga
+03:48:47	Tomas Narducci:	jajaj
+03:48:49	Tomas Novelli:	este es el peor? bueno nosotros agarramos el peor que ese
+03:48:51	Fernando Narducci:	300 megas?
+03:49:03	Fernando Narducci:	Menos espacio q un CD tenemos ahi
+03:49:09	Miguel Arboleda:	Con 300 megas podemos hacer…
+03:49:11	Lautaro Piatti:	Me encanta como "99.9% de uptime" está rojo en "Gratis" pero verde en los de pago
+03:49:16	Tomas Novelli:	el servidor es un disquete
+03:49:21	Miguel Arboleda:	Un sitio web de los años 90
+03:49:27	Joaquin Reynoso:	Si le doy iniciar sesión con Google ?
+03:49:29	Joaquin Gutierrez:	esto hay q hacerlo para el desafio??? o es solo a modo de ejmplo?
+03:49:31	Jeremias Seleme:	no se puede iniciar sesión con Google directamente?
+03:49:48	Matheo Caneva:	con lo de 1 sitio web a que se refiere
+03:49:50	Matheo Caneva:	?
+03:50:13	[PROFE] Johanna Palo Bael:	Coderhouse1
+03:50:20	[ Tutor] Bruno Cocco:	cara dirección, alija una carpeta root digamos
+03:50:22	Tomas Narducci:	Coderhouse1
+03:50:25	Emiliano Torres:	Como se llama el sitio?
+03:50:29	[ Tutor] Bruno Cocco:	aloja
+03:50:42	Matheo Caneva:	buenisimo
+03:50:52	Emiliano Torres:	gracias¡¡
+03:50:53	[PROFE] Johanna Palo Bael:	https://ar.000webhost.com/
+03:50:58	Andrés País:	yo entre con mi cuenta de Google y no me pide verificacion
+03:51:14	Tomas Narducci:	Estoy en get started
+03:51:21	Tamara Veisaga:	porque tenes el autenticador
+03:51:47	Hernán Bustamante Hesse:	Si
+03:51:47	Pablo Macagno:	si
+03:51:49	Martina Quiroz Mantel:	sii
+03:51:49	Jose Betancourt:	si
+03:51:50	Andrés País:	estoy
+03:51:50	Sabrina Monzón:	listo
+03:51:50	David Abran:	si
+03:51:54	Tomas Novelli:	quiero aprender desarrollo web :P
+03:52:01	Tomas Novelli:	JAJA
+03:53:16	Manuel Fernandez:	perdón, en la primera opción que pusiste
+03:53:30	Manuel Fernandez:	bien
+03:53:54	Manuel Fernandez:	Si, la primera me falto. Gracias
+03:55:09	Diego Torres:	buenas tardes, les escribo para los tutores, estoy con problemas de electricidad por ende se me corta la conexión.
+03:56:30	Miguel Arboleda:	Con la terminal
+03:58:09	[Tutor] Lucas Gilardi:	https://filezilla-project.org/
+03:58:43	Matheo Caneva:	llego a poner mi notebook como servidor y explota
+03:59:01	David Abran:	xD
+03:59:13	Tomas Narducci:	se me descargaron dos archivos
+03:59:34	Miguel Arboleda:	Y la gente de Mac?
+03:59:34	Santiago Tassara:	Existe algún otro que no sea filezilla?
+03:59:37	Joaquin Reynoso:	mi compu esta por explotar, estoy entrando al host aun mientras intalo eso JAJA
+03:59:42	Tomas Narducci:	Ah sisi, se me descargo dos veces no se porque
+03:59:49	Santiago Tassara:	Este no lo puedo usar
+03:59:53	Santiago Tassara:	por la version del sistema operativo
+04:00:25	Santiago Tassara:	Yo lo descargue pero no me funciona
+04:00:35	Tomas Narducci:	sisi aparece directo la versión de mac
+04:00:46	[ Tutor] Bruno Cocco:	El navegador es muy inteligente
+04:00:47	[ Tutor] Bruno Cocco:	jajajaja
+04:01:08	Tomas Narducci:	Nose porque pero
+04:01:12	Tomas Narducci:	se me sigue descargando
+04:01:18	Tomas Narducci:	Ya van 5 veces q tengo el mismo archivo
+04:01:24	Miguel Arboleda:	Es un virus
+04:01:28	Miguel Arboleda:	De gorra rosada
+04:01:29	Tomas Narducci:	Sera virus?
+04:01:56	[Tutor] Lucas Gilardi:	es confiable FileZilla así que tranqui
+04:02:03	Rodrigo Torres:	ojo que te ofrece instalar un navegador
+04:02:05	Rodrigo Torres:	capaz es eso
+04:02:30	Rodrigo Torres:	tenes que poner decline y seguir
+04:02:35	Miguel Arboleda:	Funciona para mac
+04:02:38	[ Tutor] Bruno Cocco:	cn un video de yt los sacan a todos
+04:02:44	Miguel Arboleda:	Pero ocupa un espacio ridiculo
+04:03:04	Miguel Arboleda:	Encima yo tengo la version mas nueva de macOS y es terriblemente lenta
+04:03:25	[ Tutor] Bruno Cocco:	aguante brave jajajaja
+04:03:27	Tomas Narducci:	Yo tengo mac y pude instalarlo sin problema
+04:03:34	Tomas Narducci:	a fila zilla
+04:03:57	Miguel Arboleda:	Sisi, pero no se porque demonios esto en Mac pesa tanto
+04:03:59	Miguel Arboleda:	3 GB
+04:04:12	[ Tutor] Bruno Cocco:	mmmmm
+04:04:13	Miguel Arboleda:	En macOS Monterey
+04:04:14	[ Tutor] Bruno Cocco:	raro
+04:04:19	Andrés País:	que cosa del mal mac
+04:04:28	Joaquin Gutierrez:	no te habras bajado el server no? 3gb es una banda
+04:04:33	[ Tutor] Bruno Cocco:	ya no son CD-Rom, hay q leer los cartelitos
+04:04:36	Miguel Arboleda:	jajaja
+04:04:36	[ Tutor] Bruno Cocco:	jajajajaja
+04:04:39	Miguel Arboleda:	gracias
+04:04:42	Gabriela Garcia:	jajaj
+04:04:44	Miguel Arboleda:	Yo tambien los quiero
+04:04:48	Miguel Arboleda:	Que lo sepan
+04:05:04	Fernando Narducci:	Copiar links pls
+04:05:10	Fernando Narducci:	De las paginas que necesitas q esten abiertas
+04:05:20	Joaquin Reynoso:	donde esta la de mi sitio web ?
+04:05:21	[PROFE] Johanna Palo Bael:	https://filezilla-project.org/download.php?type=client
+04:05:24	Tomas Novelli:	tiene que ser mi proyecto final?
+04:05:25	[PROFE] Johanna Palo Bael:	https://ar.000webhost.com/members/website/list
+04:05:30	[PROFE] Johanna Palo Bael:	https://files.000webhost.com/
+04:05:46	Tomas Novelli:	porque le puse cualquier nombre al dominio
+04:05:58	Tomas Novelli:	okaa
+04:06:07	Matheo Caneva:	joha, si yo con mi mail subo un archivo asi random, para subir mi proyecto tengo que eliminar el random antes?
+04:06:17	Sabrina Monzón:	después se puede corregir lo que se suba?
+04:06:30	[ Tutor] Bruno Cocco:	si lo pisas
+04:06:38	Sabrina Monzón:	genial
+04:06:41	Sabrina Monzón:	gracias
+04:06:49	[ Tutor] Bruno Cocco:	:)
+04:07:05	[PROFE] Johanna Palo Bael:	Si mate! Ahora lo vemos tmb
+04:07:07	[PROFE] Johanna Palo Bael:	no te preocupes
+04:07:20	[ Tutor] Bruno Cocco:	sisi ya pase
+04:07:27	[ Tutor] Bruno Cocco:	grax!!! 💞
+04:09:53	lis medina:	en la pagina de files me aparece un log in peor no tengo como registrame , en la otra me pude logear c gmail
+04:14:16	Maximiliano Cassino Franco:	Eloquent Javascript, 3rd Edition - Marijn Haverbeke (pape...7533 pesos$7.533Envío gratis
+04:17:39	Tomas Narducci:	Ponete un tema del salas
+04:18:14	[ Tutor] Bruno Cocco:	esta online
+04:18:17	[ Tutor] Bruno Cocco:	eloquent
+04:18:47	[ Tutor] Bruno Cocco:	una web, cn una traducción muy buena
+04:19:02	[ Tutor] Bruno Cocco:	no tengo la pc sino las tiraría el link
+04:19:48	[ Tutor] Bruno Cocco:	mi consejo seria: lean los 3 primeros capítulos antes de arrancar wl curso
+04:19:57	[ Tutor] Bruno Cocco:	ese contexto global, los va a ayudar mucho
+04:20:29	[ Tutor] Bruno Cocco:	tener una pequeña idea de Tipos de datos
+04:20:44	[PROFE] Johanna Palo Bael:	https://eloquentjs-es.thedojo.mx/
+04:20:47	[PROFE] Johanna Palo Bael:	esa web, Bru?
+04:20:52	[ Tutor] Bruno Cocco:	algunos vistazo a la sintaxis
+04:20:57	[ Tutor] Bruno Cocco:	sisi esa
+04:21:00	[ Tutor] Bruno Cocco:	🕺
+04:21:23	Joaquin Reynoso:	todo concluye al fin
+04:21:25	Andrés País:	ay llego y veo que pasaron un libro de js
+04:21:27	Andrés País:	gracias
+04:23:12	Miguel Arboleda:	Que buen servicio
+04:23:16	Miguel Arboleda:	viste?
+04:23:50	Joaquin Reynoso:	pudee ser que el navegador no me muestre los http ?
+04:23:58	Andrés País:	si tienen mas libros envienlos por aca o por slack pls
+04:24:03	Andrés País:	o si tienen un drive o algo jaja
+04:24:10	[ Tutor] Bruno Cocco:	si tenes habilitado la opción de no entrar a http
+04:24:13	[ Tutor] Bruno Cocco:	esta en config
+04:24:15	[ Tutor] Bruno Cocco:	segurudad
+04:25:21	[ Tutor] Bruno Cocco:	podes decirle q te los muestra pero q no guarde cokies ni transfiera datos
+04:25:49	[PROFE] Johanna Palo Bael:	files.000webhost.com
+04:26:18	Santiago Tassara:	No pude acceder a esos datos
+04:26:37	Matheo Caneva:	Coderhouse1
+04:26:56	Matheo Caneva:	no problem
+04:27:04	Joaquin Reynoso:	creo que me olvide la mia jajaja
+04:28:01	Joaquin Reynoso:	a mi no me pregunto lo de las ontraseñas, solo se me abrió eso
+04:28:30	[ Tutor] Bruno Cocco:	todo depende de tu configuración local joa!!
+04:28:30	Jeremias Seleme:	profe
+04:28:32	Andrés País:	a mi me funcionó
+04:28:36	Emiliano Torres:	Conexión cerrada por el servidor
+04:28:38	Joaquin Reynoso:	a mi me dijo conexión etableciada
+04:28:39	Jeremias Seleme:	uso la misma contraseña que el usuario
+04:28:40	Emiliano Torres:	ami me dice asi
+04:28:42	Emiliano Torres:	esta bien?
+04:28:49	[tutor]Maximiliano Cardenas:	a los mios les llego la asistencia
+04:28:51	[tutor]Maximiliano Cardenas:	?
+04:28:53	Joaquin Gutierrez:	profe la pass era el mismo nombre del proyecto
+04:28:53	Tomas Narducci:	me dice conexión establecida y luego conexión cerrada por el servidor
+04:29:02	lis medina:	donde dice port no va nada ?
+04:29:04	Joaquin Reynoso:	igual que tomas
+04:29:05	Matheo Caneva:	yo pase lo que quedo en el chat ajajajja
+04:29:07	Pablo Zingano:	la contraseña no era la misma que el nombre de usuario?
+04:29:14	Sabrina Monzón:	la contraseña es igual que el usuario
+04:29:16	Tamara Veisaga:	Estado:	Recuperando el listado del directorio...Estado:	Directorio "/" listado correctamenteEstado:	Conexión cerrada por el servidor
+04:29:20	Jeremias Seleme:	puso de contraseña el mismo nombre del proyexto
+04:29:20	Tamara Veisaga:	me tira eso
+04:29:22	Federico Krenn:	es la clave que puso como nombre de dominio profe
+04:29:22	Joaquin Gutierrez:	es el nombre del proyecti
+04:29:25	Maximiliano Cassino Franco:	Estado:	Conexión cerrada por el servidor
+04:29:25	Jholauss Llerena:	La contraseña era la misma del usuario
+04:29:28	Tomas Narducci:	Conexión TLS establecida.
+Estado:      	El servidor no permite caracteres no ASCII.
+Estado:      	Registrado en
+Estado:      	Recuperando el listado del directorio...
+Estado:      	Directorio "/" listado correctamente
+Estado:      	Conexión cerrada por el servidor
+Estado:      	Conexión cerrada por el servidor
+04:29:30	Hernán Bustamante Hesse:	Usuario y contraseña eran iguales creo
+04:29:31	Joaquin Gutierrez:	leenos JOHA!!!
+04:29:31	Federico Krenn:	que puso los dos iguales
+04:29:35	Sabrina Monzón:	no no
+04:29:36	Joaquin Reynoso:	conexion establecida y luego conexion cerrada por el servidor jaja
+04:29:36	Jeremias Seleme:	jajajjaja
+04:29:38	Matheo Caneva:	ES VERDAD
+04:29:40	[Tutor] Lucas Gilardi:	sí, la contraseña era la misma que el usuario!
+04:29:42	Sabrina Monzón:	es igual que el usuario
+04:29:43	Joaquin Gutierrez:	la pass es el mismo nombre
+04:29:43	Jeremias Seleme:	puso la comisión de pw
+04:29:44	Jholauss Llerena:	La contraseña era la misma del usuario
+04:29:45	Matheo Caneva:	es el mismo que el usuario
+04:29:46	Tomas Novelli:	profe yo tuve que cambiar la contraseña
+04:29:46	Joaquin Gutierrez:	de usurio
+04:29:47	Hernán Bustamante Hesse:	Usuario y contraseña eran iguales creo
+04:29:48	Sabrina Monzón:	si si
+04:29:52	Jeremias Seleme:	es comision
+04:30:03	Joaquin Gutierrez:	si!!!
+04:30:04	Mara Zagales:	jajajajajajaj
+04:30:04	Matheo Caneva:	coderhouse1 que era entonces
+04:30:08	Joaquin Gutierrez:	el gmail
+04:30:11	Jeremias Seleme:	la primera
+04:30:15	Matheo Caneva:	AAA
+04:30:15	Mara Zagales:	cla la del gmail
+04:30:20	Andrés País:	creo que es solo comisión y el numero
+04:30:24	[Tutor] Luis Dufour:	el puerto profe
+04:30:30	Andrés País:	sin lo de "proyecto"
+04:30:34	Tomas Novelli:	yo cambie la contraseña, puse la misma que había puesto y cuando probe conectar me conecto bien
+04:30:55	[PROFE] Johanna Palo Bael:	comision23520-proyecto
+04:30:59	[ Tutor] Bruno Cocco:	te dixe q el usuario esta ok pero el pass
+04:31:00	[ Tutor] Bruno Cocco:	no
+04:31:06	Sabrina Monzón:	si si
+04:31:26	[ Tutor] Bruno Cocco:	si mira  las respuestas q da arriba
+04:31:30	[ Tutor] Bruno Cocco:	te va diciendo el proceso
+04:31:33	[ Tutor] Bruno Cocco:	paso a paso
+04:31:36	Tomas Narducci:	Estado:      	Inicializando TLS...
+Estado:      	Conexión TLS establecida.
+Estado:      	El servidor no permite caracteres no ASCII.
+Estado:      	Registrado en
+Estado:      	Recuperando el listado del directorio...
+Estado:      	Directorio "/" listado correctamente
+Estado:      	Conexión cerrada por el servidor
+04:31:51	Tomas Narducci:	Porq me cierra la conexion?
+04:31:58	[ Tutor] Bruno Cocco:	tenes algún carácter q no esta permitido
+04:32:01	Pablo Zingano:	me salió un cartel de certificado desconocido
+04:32:05	[ Tutor] Bruno Cocco:	Un asterisco una coma
+04:32:25	Matheo Caneva:	toca aceptar pablo
+04:32:37	Pablo Zingano:	leeestooo
+04:32:45	Matheo Caneva:	<3
+04:32:53	Tomas Narducci:	no tengo ninguna asterisco ni coma ni nada, solo letra y numero
+04:32:54	Sabrina Monzón:	listo
+04:32:59	Andrés País:	ready
+04:32:59	[ Tutor] Bruno Cocco:	piensen q es como la terminal de este programa
+04:33:04	Tamara Veisaga:	me había asustado con eso de conexión cerrada
+04:33:08	[ Tutor] Bruno Cocco:	va ejecutando y cuando falla reporta
+04:33:19	Cristián Neely:	se sube todo menos node_modules?
+04:33:44	[ Tutor] Bruno Cocco:	sisi solo los archivos del proy
+04:33:58	Joaquin Reynoso:	ya lo encontré jaja
+04:33:59	[ Tutor] Bruno Cocco:	Los módulos de node son como asistentes de desarrollo
+04:34:02	[Tutor] Lucas Gilardi:	ni la carpeta node_modules ni los archivos .json, el resto sí
+04:34:34	Hernán Bustamante Hesse:	git y scss también ?
+04:34:43	Tomas Narducci:	Me tira conexión cerrada con el servidor
+04:34:44	[ Tutor] Bruno Cocco:	si l3 damos contexto los módulos tienen esos pequeños programitas con la magia, y los json, son los ejecutables
+04:34:57	Joaquin Reynoso:	okey
+04:34:57	[Tutor]María Paula Clemente:	usen gitignore
+04:35:04	[ Tutor] Bruno Cocco:	👆
+04:35:20	Juan Ignacio Cruz oviedo:	profe, y si le haces cambios a la pagina? es lo mismo para subirlo de nuevo?
+04:35:40	Joaquin Reynoso:	no puedo seleccionar saltándome el node modules y los otros
+04:35:57	Emiliano Torres:	subi el git-ignore
+04:36:06	Andrés País:	Me siento #CasiHacker
+04:36:08	[ Tutor] Bruno Cocco:	cntl y  xlich no te funciona?
+04:36:10	Emiliano Torres:	Algun problema ?
+04:36:12	Kevin Aguiar:	el .git lo subsite?
+04:36:13	Tamara Veisaga:	sino seleccionado con crtl
+04:36:15	Rodrigo Torres:	la carpeta git la subimos?
+04:36:28	Joaquin Reynoso:	al lado de entra a la de public
+04:36:31	Joaquin Reynoso:	ahí que hacerle click
+04:36:34	Joaquin Reynoso:	luego subir ?
+04:36:46	Pablo Zingano:	y si me equivoque de proyecto? 🙆‍♂️
+04:37:00	[ Tutor] Bruno Cocco:	jajaja no pasa nada, borra y dale de nuevo
+04:37:02	[Tutor] Lucas Gilardi:	Pablo, podés borrar lo que subiste y resubir el proyecto correcto
+04:39:37	Pablo Zingano:	gracias!!
+04:40:07	Joaquin Reynoso:	en donde se hace click joha ?
+04:40:25	Joaquin Reynoso:	Oka perfecot
+04:40:34	Joaquin Reynoso:	Si me salio jaja
+04:40:55	Jeremias Seleme:	ahí lo encontre
+04:40:58	Joaquin Gutierrez:	ahi donde dice administador de archivos?
+04:40:59	Jeremias Seleme:	ahi
+04:41:02	Jeremias Seleme:	administrador
+04:41:05	Joaquin Gutierrez:	jajajaja
+04:41:09	[ Tutor] Bruno Cocco:	jajaja
+04:41:18	[Tutor]María Paula Clemente:	jsjsjjs
+04:41:45	Sabrina Monzón:	donde esta el administrador de archivos?
+04:41:49	[ Tutor] Bruno Cocco:	notarán que no se usa 00pwebhost jajajaja
+04:42:04	Emiliano Torres:	Joha podes repetir los pasos por favor
+04:42:23	Pablo Zingano:	como yooo
+04:42:33	Matheo Caneva:	subiste el del after joha
+04:42:35	[Tutor]María Paula Clemente:	para Pablo es que preguntó eso
+04:42:41	[ Tutor] Bruno Cocco:	jajajajaja
+04:42:51	[ Tutor] Bruno Cocco:	joha te tiene en cuenta viste
+04:42:54	[ Tutor] Bruno Cocco:	jajaja
+04:43:01	Matheo Caneva:	esa marca de agua se puede eliminar?
+04:43:02	[Tutor]María Paula Clemente:	claro
+04:43:19	[Tutor] Lucas Gilardi:	obviamente fue todo a propósito para ver cómo solucionarlo
+04:43:32	[ Tutor] Bruno Cocco:	😌
+04:43:33	[Tutor]María Paula Clemente:	obvio!!!
+04:43:34	Matheo Caneva:	fue todo una estrategia
+04:43:46	[Tutor]María Paula Clemente:	siempre un paso adelante la profe
+04:43:55	[ Tutor] Bruno Cocco:	jajajajaja
+04:44:03	[ Tutor] Bruno Cocco:	humildad ante todo
+04:44:06	Jeremias Seleme:	lo único q me toma el sitio es el index, las secciones no me toma nada
+04:44:45	Joaquin Reynoso:	me pasa lo mimso que jeremias
+04:44:49	[ Tutor] Bruno Cocco:	puede q tarde en subir, al costado te dixe si está cargando o si ya finalizo
+04:44:49	Rodrigo Torres:	https://estradarecords.000webhostapp.com/index.html por si alguien quiere chusmear
+04:44:51	Joaquin Reynoso:	solo me toma el index, la secciones no
+04:45:15	Joaquin Reynoso:	será lo que están dentro de una carpeta ? , pero se supone que debería levantarlos
+04:45:33	Fabian Romano:	la carpeta scss también hay que subir?
+04:45:35	[ Tutor] Bruno Cocco:	si señalas la carpeta lo debería contamplar
+04:45:43	[Tutor] Lucas Gilardi:	sí Fabian!
+04:45:48	Emiliano Torres:	no se me sube :(
+04:45:54	Tamara Veisaga:	https://kassia.000webhostapp.com/index.html
+04:45:55	Andrés País:	https://cogitomania.000webhostapp.com/index.html
+04:46:03	Tamara Veisaga:	anduvo ♥
+04:46:05	Jholauss Llerena:	https://phantergames.000webhostapp.com/index.html
+04:46:06	Emiliano Torres:	https://surfraimundo.000webhostapp.com/
+04:46:08	[ Tutor] Bruno Cocco:	piensen q en el local funciona todo poeq el navegador tiene contexto
+04:46:11	[ Tutor] Bruno Cocco:	en el server
+04:46:15	[ Tutor] Bruno Cocco:	esta cruda la info
+04:46:21	[ Tutor] Bruno Cocco:	si la ruta no llega
+04:46:23	[ Tutor] Bruno Cocco:	no hay nada
+04:46:27	Jeremias Seleme:	https://lacasadelmusic0.000webhostapp.com/
+04:46:30	Marian pérez:	https://canguroanimaciones.000webhostapp.com/
+04:46:59	Joaquin Reynoso:	Como señalo la carpeta bruno ?
+04:47:05	Sabrina Monzón:	el administrador donde esta?
+04:47:19	Sabrina Monzón:	donde lo encuentro?
+04:47:43	Matheo Caneva:	tamara! en tu index me sale todo en blanco, te aviso eso por si es algun error
+04:47:44	Marian pérez:	Las modificaciones que haga al proyecto se hacen automáticas en el hosting o tengo que rehacer esto cada vez?
+04:48:21	[ Tutor] Bruno Cocco:	lo tenes q volver a subir
+04:48:49	Tomas Narducci:	tiene la opción de reemplazar?
+04:48:52	Tomas Narducci:	Ósea sobreescribir?
+04:49:29	Tomas Narducci:	franccesca00.000webhostapp.com
+04:49:34	Joaquin Gutierrez:	Primera vez q los ves Joha??? jjajaja
+04:50:16	Emiliano Torres:	https://surfraimundo.000webhostapp.com/
+04:50:20	Tomas Narducci:	Joha una pregunta
+04:50:25	Tomas Narducci:	Como le agrego la s a http
+04:50:39	Tomas Narducci:	porque cuando entro a la pagina me salta una advertencia de sitio no seguro
+04:50:54	Pablo Ambrosio:	https://box-solution.000webhostapp.com/
+04:51:03	Tamara Veisaga:	no
+04:51:08	Tamara Veisaga:	se m,e borro la imagen
+04:51:11	Tamara Veisaga:	del menu
+04:51:14	Matheo Caneva:	f
+04:51:20	Andrés País:	F
+04:51:35	Fernando Narducci:	https://ferartist.000webhostapp.com/index.html
+04:51:41	Tamara Veisaga:	en inspirate se ve
+04:51:48	Tomas Narducci:	jajajajaja
+04:51:59	Manuel Fernandez:	https://ligacubb.000webhostapp.com/
+04:52:04	Tomas Narducci:	Ah ok ok
+04:52:14	Andrés País:	Y ese precio por mes lo paga el cliente no?
+04:53:31	Matheo Caneva:	favicon
+04:54:07	Miguel Arboleda:	Hay una duda que siempre he tenido:
+04:54:09	Andrés País:	Profeee chequea los media queries
+04:54:36	Matheo Caneva:	yo el unico link que puedo dejar es el de github
+04:54:37	Matheo Caneva:	jajaja
+04:54:40	Miguel Arboleda:	El contenido multimedia, en caso de que el cliente lo pida, tenemos que hacerlo nosotros?
+04:54:52	Miguel Arboleda:	O eso lo hace un diseñador gráfico o que?
+04:55:19	[tutor]Maximiliano Cardenas:	el cliente si no sabes
+04:55:26	[tutor]Maximiliano Cardenas:	tanto imágenes videos
+04:55:33	[tutor]Maximiliano Cardenas:	los provee el cliente
+04:55:41	[tutor]Maximiliano Cardenas:	si saben
+04:55:53	[tutor]Maximiliano Cardenas:	diseño lo ofrecen
+04:55:58	Miguel Arboleda:	Ahhhh perfecto
+04:56:12	Hernán Bustamante Hesse:	https://dnaval.000webhostapp.com/index.html
+04:56:18	Miguel Arboleda:	Me sirve saberlo para cuando quiera crear un portafolio
+04:56:26	Emiliano Torres:	hice pedo ;(
+04:56:35	Fernando Narducci:	Muy buenas las paginas!
+04:56:37	Jose Betancourt:	https://proyectodwjosbet.000webhostapp.com/
+04:56:43	Fernando Narducci:	👏
+04:57:19	Matheo Caneva:	y si hablamos latin ? jajjaja
+04:57:33	Jose Betancourt:	sii
+04:58:01	Andrés País:	spaninglish
+04:58:20	Jose Betancourt:	si jhhww
+04:59:01	Jose Betancourt:	gracias joha!
+04:59:11	Andrés País:	una genia!
+04:59:14	Andrés País:	re buenos tips
+04:59:55	Andrés País:	Es un parto responsive y coordinarlo con Bootstrap
+05:01:28	lis medina:	cualmes el hosting berdadero
+05:01:38	lis medina:	cual es el hosting verdadero
+05:02:38	Hernán Bustamante Hesse:	Para Bootstrap con responsive usa los d-xm- … etc. Es muy útil y te ahorras mucho código css.
+05:03:33	Miguel Arboleda:	Una cosa:
+05:03:38	Tomas Narducci:	y bueeeno
+05:03:44	Joaquin Gutierrez:	osea puedo maquetar en grid y flexbox y agregar en una seccion algun contenido del framework? 
+05:04:08	Marian pérez:	No me pasaron el presente todavía, a alguien más le pasa?
+05:04:20	Miguel Arboleda:	El archivo de las animaciones del wow js
+05:04:30	Miguel Arboleda:	Eso hay que subirlo tambien?
+05:07:00	Fernando Narducci:	.io
+05:07:16	Joaquin Gutierrez:	pero la web de coder te da la opcion de subir un solo link, subimos el repo y en comentarios la web hosteada?
+05:08:04	fernandovillafane:	También se puede usar solo githubpages para hosting?
+05:08:24	[Tutor] Lucas Gilardi:	sí Joaco, haciendo eso estaría bien
+05:09:01	Joaquin Reynoso:	Todo subido en GitHub para la entrega esta no joha ?
+05:09:21	Joaquin Reynoso:	Oka perfecto
+05:09:25	Joaquin Reynoso:	no lo del servidor de ahora
+05:09:53	Federico Krenn:	siempre se me sube la rama master a mi, pero uso en local las ramas. tengo que darle push a cada una?
+05:10:20	Federico Krenn:	graciasss
+05:10:33	Fernando Narducci:	gracias
+05:10:36	Joaquin Reynoso:	Luego se me va a quemar la cabeza, ahora creo que vamos jaja
+05:10:37	Joaquin Reynoso:	gracias
+05:10:39	fernandovillafane:	Gracias!
+05:10:40	[Tutor] Lucas Gilardi:	buenas noches gente! nos vemos
+05:10:42	Jose Betancourt:	graciass!
+05:10:43	Fernando Ereño:	muchas gracias!!!
+05:10:43	Pablo Maglione:	gracias. saludos
+05:10:46	Andrés País:	Graciasss nos vemos
+05:10:46	Matheo Caneva:	DALE ARGENTINAAA
+05:10:48	Rodrigo Torres:	muchas gracias por todo. nos vemos la semana que viene!
+05:10:48	Joaquin Gutierrez:	a ver a la scaloneta! 
+05:10:50	Matheo Caneva:	saludos joha
+05:10:51	Tamara Veisaga:	buen finde!
+05:10:53	Sabrina Monzón:	Gracias!!!! Saludos!!!
+05:10:54	Tamara Veisaga:	abrazo
+05:10:54	Martina Quiroz Mantel:	Nos vemoos
+05:10:54	[Tutor]María Paula Clemente:	buenas noches
+05:10:55	Pablo Macagno:	chau gracias
+05:10:57	Hernán Bustamante Hesse:	Chauu
