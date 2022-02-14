@@ -82,6 +82,11 @@ body {
   font-size: 30px;
   text-transform: uppercase; }
 
+.sobreMi {
+  font-size: large;
+  width: 70%;
+  margin-left: 13%; }
+
 .footer {
   background-color: #F9CBC0; }
   .footer .icon {
@@ -101,6 +106,9 @@ body {
 
 .botonContacto {
   margin-top: 6%; }
+
+.portfolio:hover {
+  box-shadow: -12px 12px 2px -1px #8cafa0; }
 
 .btn-light {
   color: white;
@@ -132,7 +140,10 @@ body {
   .sectionUno {
     margin-top: -8%;
     margin-bottom: 8%;
-    font-size: small; }
+    font-size: small;
+    width: 100%; }
+  .sobreMi {
+    font-size: 110%; }
   .imgSection {
     margin-top: -8%; }
   .btn-light,
